@@ -1,0 +1,8 @@
+C:\Users\felnd\Downloads\DevProjcs\+Devs2Blu_Proj\Teste2+Devs\Teste2+Devs\bin\Debug\Teste2+Devs.exe.config
+C:\Users\felnd\Downloads\DevProjcs\+Devs2Blu_Proj\Teste2+Devs\Teste2+Devs\bin\Debug\Teste2+Devs.exe
+C:\Users\felnd\Downloads\DevProjcs\+Devs2Blu_Proj\Teste2+Devs\Teste2+Devs\bin\Debug\Teste2+Devs.pdb
+C:\Users\felnd\Downloads\DevProjcs\+Devs2Blu_Proj\Teste2+Devs\Teste2+Devs\obj\Debug\Teste2+Devs.csproj.AssemblyReference.cache
+C:\Users\felnd\Downloads\DevProjcs\+Devs2Blu_Proj\Teste2+Devs\Teste2+Devs\obj\Debug\Teste2+Devs.csproj.SuggestedBindingRedirects.cache
+C:\Users\felnd\Downloads\DevProjcs\+Devs2Blu_Proj\Teste2+Devs\Teste2+Devs\obj\Debug\Teste2+Devs.csproj.CoreCompileInputs.cache
+C:\Users\felnd\Downloads\DevProjcs\+Devs2Blu_Proj\Teste2+Devs\Teste2+Devs\obj\Debug\Teste2+Devs.exe
+C:\Users\felnd\Downloads\DevProjcs\+Devs2Blu_Proj\Teste2+Devs\Teste2+Devs\obj\Debug\Teste2+Devs.pdb
